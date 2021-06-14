@@ -1,0 +1,2 @@
+<!-- replace 'erb[loud]:contains("options_text_for(image)")' -->
+<%= options_text_for(image, @product) %>

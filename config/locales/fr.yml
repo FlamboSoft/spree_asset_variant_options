@@ -1,10 +1,11 @@
 # Sample localization file for English. Add more files in this directory for other locales.
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
-en:
+
+fr:
   activerecord:
     errors:
       models:
         spree/image:
           attributes:
             base:
-              must_have_variants: Must have at least one variant
+              must_have_variants: Doit avoir au moins un variant
